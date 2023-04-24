@@ -3,5 +3,11 @@ body{
 	background-color:#cccccc;
 }
 .div{
+	padding:10px;
 	background-color:white;
+	
+}
+a{
+	color:#cccccc;
+	text-decoration:none;
 }
