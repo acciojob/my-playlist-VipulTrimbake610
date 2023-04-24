@@ -2,14 +2,19 @@
 body{
 	background-color:#cccccc;
 }
-.div{
+.player_one, .player_two{
 	background-color:white;
+	padding:10px;
+	border-radius:5px;
 	
+}
+h1{
+	text-align:center;
 }
 ul{
 	list-style:none;
 }
 a{
 	color:#cccccc;
-	text-decoration:none;
+	text-decoration-line:none;
 }
